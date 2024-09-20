@@ -1,4 +1,4 @@
-
+![logo](https://github.com/PranavFE-web/PranavFE-web/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Pranav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="450"src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
